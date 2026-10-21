@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-loireatlantique",
   "title": "Data Loireatlantique",
   "description": "Loire-Atlantique Open Data (data.loire-atlantique.fr) — OpenDataSoft MCP.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "websiteUrl": "https://pipeworx.io/packs/data-loireatlantique",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-loireatlantique",
