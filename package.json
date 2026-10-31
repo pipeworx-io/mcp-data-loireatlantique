@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-loireatlantique",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Loire-Atlantique Open Data (data.loire-atlantique.fr) — OpenDataSoft MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-loireatlantique",
     "gatewaySlug": "data-loireatlantique",
-    "sourceHash": "v1-4fc9ee6b39bb98e4617b472ea4c763149b552c5b8337647b4d9a1c7cb3fb9f10",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-8ddf649e83b76c6284a58c83fe1132cf8186b481a7870dc4e162828deeab8755",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
